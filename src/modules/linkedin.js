@@ -7,15 +7,15 @@
 			oauth: {
 				version: 2,
 				response_type: 'code',
-				auth: 'https://www.linkedin.com/uas/oauth2/authorization',
-				grant: 'https://www.linkedin.com/uas/oauth2/accessToken'
+				auth: 'https://www.linkedin.com/oauth/v2/authorization',
+				grant: 'https://www.linkedin.com/oauth/v2/accessToken'
 			},
 
 			// Refresh the access_token once expired
 			refresh: true,
 
 			scope: {
-				basic: 'r_basicprofile',
+				basic: 'r_liteprofile',
 				email: 'r_emailaddress',
 				files: '',
 				friends: '',
@@ -28,7 +28,7 @@
 			},
 			scope_delim: ' ',
 
-			base: 'https://api.linkedin.com/v1/',
+			base: 'https://api.linkedin.com/v2/',
 
 			get: {
 				me: 'people/~:(picture-url,first-name,last-name,id,formatted-name,email-address)',

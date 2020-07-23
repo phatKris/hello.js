@@ -12,7 +12,7 @@
             "value": "name:YG-U"
           }]
         },
-        "url": "https://api.linkedin.com/v1/people/arEq7PcDa4"
+        "url": "https://api.linkedin.com/v2/people/arEq7PcDa4"
       },
       "firstName": "Daniel",
       "headline": "Senior Consultant at Clement May Ltd",
@@ -35,7 +35,7 @@
             "value": "name:ns6I"
           }]
         },
-        "url": "https://api.linkedin.com/v1/people/o4wuIwyLHW"
+        "url": "https://api.linkedin.com/v2/people/o4wuIwyLHW"
       },
       "firstName": "Kate",
       "headline": "Internal Recruitment",
@@ -58,7 +58,7 @@
             "value": "name:keuG"
           }]
         },
-        "url": "https://api.linkedin.com/v1/people/10_wl0wuEA"
+        "url": "https://api.linkedin.com/v2/people/10_wl0wuEA"
       },
       "firstName": "Matt",
       "headline": "Digital and Mobile Recruitment Specialist",
@@ -81,7 +81,7 @@
             "value": "name:2TX0"
           }]
         },
-        "url": "https://api.linkedin.com/v1/people/rDXLwrn2Rx"
+        "url": "https://api.linkedin.com/v2/people/rDXLwrn2Rx"
       },
       "firstName": "Natalie",
       "headline": "Talent Acquisition Lead at Yahoo!7",
@@ -104,7 +104,7 @@
             "value": "name:ctj1"
           }]
         },
-        "url": "https://api.linkedin.com/v1/people/1bKkROYQU5"
+        "url": "https://api.linkedin.com/v2/people/1bKkROYQU5"
       },
       "firstName": "Alexander",
       "headline": "Principal and a Licenced Real Estate Agent. at Alex Gold Property Development",
